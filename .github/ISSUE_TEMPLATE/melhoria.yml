@@ -1,0 +1,20 @@
+name: Sugerir melhoria
+description: Proponha um ajuste de uso, documentação ou manutenção
+title: "[Melhoria] "
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problema e quem é afetado
+    validations:
+      required: true
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposta e critérios de aceite
+    validations:
+      required: true
+  - type: textarea
+    id: references
+    attributes:
+      label: Referências ou contexto

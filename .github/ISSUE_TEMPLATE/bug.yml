@@ -1,0 +1,27 @@
+name: Reportar problema
+description: Descreva um comportamento inesperado no InsightLab
+title: "[Bug] "
+body:
+  - type: markdown
+    attributes:
+      value: "Remova dados de clientes e chaves de importação. Para falhas de segurança, leia SECURITY.md e use um canal privado."
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Como reproduzir
+      description: Inclua passos, filtros e, se necessário, um CSV fictício mínimo.
+    validations:
+      required: true
+  - type: textarea
+    id: results
+    attributes:
+      label: Resultado observado e esperado
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Ambiente
+      placeholder: "Commit ou versão, browser, sistema, Node.js e Python"
+    validations:
+      required: true
