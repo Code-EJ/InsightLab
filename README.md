@@ -5,6 +5,8 @@
 ![Python 3.14](https://img.shields.io/badge/Python-3.14-176450)
 ![Versão do código](https://img.shields.io/badge/Versão_do_código-0.1.0-526861)
 
+Projeto desenvolvido com apoio de inteligência artificial para o **portfólio da CODE JR**.
+
 **Inteligência de vendas para varejo.** O InsightLab transforma um histórico de vendas por item em uma visão de receita, produtos e clientes. Comece pela demonstração, com 18 meses de dados sintéticos, ou explore um CSV com o mesmo formato. Os cálculos são executados na API Python e podem ser conferidos pela documentação interativa.
 
 ![Visão geral do InsightLab em desktop, com filtros, quatro indicadores, evolução de receita e distribuição por categoria](docs/screenshots/visao-geral-desktop.webp)
