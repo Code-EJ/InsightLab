@@ -15,7 +15,7 @@ Explore 180 dias de vendas, identifique os produtos que concentram a receita e a
 
 ![Prévia animada do InsightLab mostrando a mudança de período, a curva ABC por produto, a previsão de receita e o resultado da simulação](docs/media/demo-preview.webp)
 
-[Assistir à demonstração completa em MP4 (36 s, sem áudio)](docs/media/demo.mp4)
+[Assistir no navegador (36 s, sem áudio)](https://cdn.jsdelivr.net/gh/oEnzoRibas/InsightLab@main/docs/media/demo.mp4) · [Baixar o vídeo completo em MP4](docs/media/demo.mp4?raw=true)
 
 ## Funcionalidades
 
