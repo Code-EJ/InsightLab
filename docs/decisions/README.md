@@ -1,6 +1,6 @@
 # Decisões arquiteturais registradas
 
-Estes registros descrevem decisões já refletidas no código da versão em desenvolvimento.
+Estes registros descrevem decisões já refletidas no código da versão 0.1.0.
 
 ## ADR 001 · Cálculos na API Python
 

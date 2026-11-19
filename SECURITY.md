@@ -4,9 +4,9 @@
 
 | Linha | Situação |
 | --- | --- |
-| `0.1.0` em desenvolvimento | Linha atual do código. Relate usando o commit ou a versão da implantação afetada. |
+| `0.1.0` | Primeira versão publicada. Relate usando o commit ou a versão da implantação afetada. |
 
-O projeto ainda não tem releases publicadas nem uma política de manutenção de versões anteriores.
+A manutenção acompanha a linha atual. O projeto ainda não definiu uma política para versões anteriores.
 
 ## Reporte privado
 
