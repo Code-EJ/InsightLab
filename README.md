@@ -9,7 +9,15 @@ Projeto desenvolvido com apoio de inteligência artificial para o **portfólio d
 
 **Inteligência de vendas para varejo.** O InsightLab transforma um histórico de vendas por item em uma visão de receita, produtos e clientes. Comece pela demonstração, com 18 meses de dados sintéticos, ou explore um CSV com o mesmo formato. Os cálculos são executados na API Python e podem ser conferidos pela documentação interativa.
 
-![Visão geral do InsightLab em desktop, com filtros, quatro indicadores, evolução de receita e distribuição por categoria](docs/screenshots/visao-geral-desktop.webp)
+## Demonstração da Plataforma
+
+Explore 180 dias de vendas, identifique os produtos que concentram a receita e acompanhe a previsão para os 30 dias seguintes. No simulador, veja o efeito de aumentar o volume de pedidos em 12% e o ticket médio em 5%.
+
+![Prévia animada do InsightLab mostrando a mudança de período, a curva ABC por produto, a previsão de receita e o resultado da simulação](docs/media/demo-preview.webp)
+
+[Assistir à demonstração completa em MP4 (36 s, sem áudio)](docs/media/demo.mp4)
+
+## Funcionalidades
 
 | Recurso | O que permite investigar |
 | --- | --- |
@@ -23,7 +31,9 @@ Projeto desenvolvido com apoio de inteligência artificial para o **portfólio d
 [Galeria desktop e mobile](docs/screenshots/README.md) · [Documentação técnica](docs/README.md) · [Metodologia dos indicadores e da previsão](docs/metodologia.md)
 
 <details>
-<summary>Ver a previsão de vendas e o painel mobile</summary>
+<summary>Ver a visão geral, a previsão de vendas e o painel mobile</summary>
+
+![Visão geral do InsightLab em desktop, com filtros, quatro indicadores, evolução de receita e distribuição por categoria](docs/screenshots/visao-geral-desktop.webp)
 
 ![Previsão de 30 dias com histórico e comparação de erros do modelo](docs/screenshots/previsao-30-dias.webp)
 
